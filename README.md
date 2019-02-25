@@ -6,4 +6,4 @@
 - [Yi Xu](https://github.com/Roxyi)
 - [Yanhao Zhu](https://github.com/zhuyanhao)
 ## Competition
-- 1. [TMDB Box Office Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction)
+1. [TMDB Box Office Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction)
